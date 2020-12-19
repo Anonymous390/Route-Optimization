@@ -1,0 +1,7 @@
+Silicon Valley Project Description:
+
+	-This Project mainly focuses on “Distribution Route Optimization”.
+	-Modern India moving towards “Farm to consumer” concept to help such farming and marketing company in planning and optimizing distribution route.
+	-Further enhancing this program into mobile apps will help poor farmers plan their distribution of their products optimally through mobile phones.
+	-Presently there are farm product distribution companies struggling for Optimization of routes in medium to large urban cities one of such company came forward to use this optimization route map hence I tried to support them.
+	-Challenge for farm product distribution company cannot afford to pay for high cost present websites hence this kind of free version will be of great help.
